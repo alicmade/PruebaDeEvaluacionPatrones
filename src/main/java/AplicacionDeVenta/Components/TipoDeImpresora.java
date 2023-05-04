@@ -1,2 +1,5 @@
-package AplicacionDeVenta.Components;public enum TipoDeImpresora {
+package AplicacionDeVenta.Components;
+
+public enum TipoDeImpresora {
+    INYECCION, LASER
 }

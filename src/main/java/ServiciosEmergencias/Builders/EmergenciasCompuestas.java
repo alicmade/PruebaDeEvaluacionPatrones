@@ -1,6 +1,6 @@
-package ServiciosEmergencias;
+package ServiciosEmergencias.Builders;
 
-public class EmergenciasCompuestas implements UnidadeAdministrativa {
+public class EmergenciasCompuestas implements Builder {
     private String nombre;
     private int ambulancias;
     private double mediaDeAsistencias;
